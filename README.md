@@ -1,1 +1,1 @@
-how to position a div in a page
+how to place a div according to the page
